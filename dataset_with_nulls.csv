@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Experience_Years,Department,City,Education
+1,Alice,25.0,50000.0,2.0,IT,New York,Bachelor
+2,Bob,,60000.0,3.5,HR,London,Master
+3,Charlie,30.0,,5.0,IT,,Bachelor
+4,David,35.0,75000.0,,Finance,Paris,PhD
+5,Eva,,80000.0,7.0,,Tokyo,Master
+6,Frank,40.0,62000.0,10.0,Marketing,New York,
+7,Grace,28.0,,3.0,HR,,Bachelor
+8,Hannah,32.0,58000.0,,Marketing,London,Master
+9,Ian,45.0,90000.0,15.0,Finance,Paris,PhD
+10,Jack,,52000.0,1.0,IT,Tokyo,
